@@ -22,7 +22,7 @@ pygmentsUseClasses = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
-  location = "China"
+  location = "Indonesia"
   enableGitalk = true
 
   [params.gitalk]
