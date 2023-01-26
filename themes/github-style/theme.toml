@@ -3,13 +3,13 @@
 
 name = "Github Style"
 license = "MIT"
-licenselink = "https://github.com/MeiK2333/github-style/blob/master/LICENSE"
+licenselink = "https://google.com/"
 description = "github-style hugo theme"
-homepage = "https://github.com/MeiK2333"
+homepage = "https://google.com/"
 tags = ["blog", "google analytics"]
 features = ["google analytics"]
 min_version = "0.41"
 
 [author]
-  name = "MeiK"
-  homepage = "https://github.com/MeiK2333"
+  name = "teollo"
+  homepage = "https://google.com/"
