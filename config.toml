@@ -44,7 +44,7 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link2"
     href = "https://google.com"
-    icon = "https://google.com/images/avatar.png"
+    icon = "https://google.com/"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
