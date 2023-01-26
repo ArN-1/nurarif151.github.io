@@ -40,10 +40,10 @@ pygmentsUseClasses = true
 
   [[params.links]]
     title = "Link"
-    href = "https://google.com"
+    href = "https://google.com/"
   [[params.links]]
     title = "Link2"
-    href = "https://google.com"
+    href = "https://google.com/"
     icon = "https://google.com/"
 
 [frontmatter]
