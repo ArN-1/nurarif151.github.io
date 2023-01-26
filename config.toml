@@ -1,4 +1,4 @@
-baseURL = "https://meik2333.com/"
+baseURL = "https://google.com/"
 languageCode = "zh-cn"
 title = "teollo.id"
 theme = "github-style"
@@ -16,7 +16,7 @@ pygmentsUseClasses = true
   instagram = "MeiK2333"
   tumblr = "MeiK2333"
   email = "meik2333@gmail.com"
-  url = "https://meik2333.com"
+  url = "https://google.com"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
@@ -40,11 +40,11 @@ pygmentsUseClasses = true
 
   [[params.links]]
     title = "Link"
-    href = "https://github.com/meik2333"
+    href = "https://google.com"
   [[params.links]]
     title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://google.com"
+    icon = "https://google.com/images/avatar.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
